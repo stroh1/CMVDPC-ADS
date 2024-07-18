@@ -12,9 +12,9 @@ sure charge continuity is satisfied.
 The second file contains the full diode model including parasitics, where the diode SDD and frequency-dependent resistance SDD (third file) are components.
 
 For questions, please email
-
 strohman@umich.edu  and/or
 zfritts@umich.edu
+
 
 Ryan Strohman 
 
